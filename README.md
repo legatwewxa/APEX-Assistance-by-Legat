@@ -2,7 +2,7 @@
 # Apex Assistance Scripts
 
 ## Download
-[Newest](https://www.mediafire.com/file/fks9zwc1nbrars3/APEX-assistance.zip/file)
+[Newest](https://www.mediafire.com/file/kh7f68sjujtezsx/Apex_Aimbot.zip/file)
 
 ## Supported and Tested Platforms
 
